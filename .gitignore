@@ -2,3 +2,4 @@
 .directory
 .jekyll-cache
 _site/
+/*.bak
