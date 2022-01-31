@@ -13,3 +13,6 @@
   https://pixabay.com/users/graphicmama-team-2641041/
     ```
   * relates to GraphicMama, cf. https://graphicmama.com/about
+* downloaded files of Jan 26, 2022 with renamings:
+  * shark-1454245[...].[ai|png] -> sharki-logo[...].[ai|png]
+  
