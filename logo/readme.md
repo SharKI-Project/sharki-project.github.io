@@ -14,5 +14,6 @@
     ```
   * relates to GraphicMama, cf. https://graphicmama.com/about
 * downloaded files of Jan 26, 2022 with renamings:
-  * shark-1454245[...].[ai|png] -> sharki-logo[...].[ai|png]
+  * shark-1454245.ai -> sharki-logo.ai
+  * shark-1454245[|_1280|_640].png -> sharki-logo[_1757x1920|_1171x1280|_0585x0640].png
   
